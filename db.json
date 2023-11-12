@@ -1,0 +1,278 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alberta Shields",
+      "email": "alberta.shields25@gmail.com",
+      "role": "teacher",
+      "gender": "female",
+      "birthday": "24/04/1981",
+      "address": "5317 Stoltenberg Pine Suite 575",
+      "phone": "800-358-8079",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/120.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Joanna Hammes",
+      "email": "joanna52@gmail.com",
+      "password": "hNBUgb6baGrbOmM",
+      "role": "student",
+      "gender": "female",
+      "birthday": "06/05/1999",
+      "address": "69967 Cleve Lane Suite 496",
+      "phone": "970-684-8622",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1158.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Roy Mohr",
+      "email": "roy13@yahoo.com",
+      "password": "vyK_qTLn5W2OsaI",
+      "role": "student",
+      "gender": "male",
+      "birthday": "22/09/2001",
+      "address": "382 Kassulke Causeway Apt. 635",
+      "phone": "171-363-2335",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/368.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Javier Bradtke",
+      "email": "javier.bradtke@yahoo.com",
+      "password": "Vl7tJYG1bFp7gd_",
+      "role": "teacher",
+      "gender": "male",
+      "birthday": "20/10/1983",
+      "address": "748 Douglas Land Suite 950",
+      "phone": "871-420-2221",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1228.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Bert Reichel",
+      "email": "bert.reichel75@gmail.com",
+      "password": "HEO9fTQkAl3uYT0",
+      "role": "student",
+      "gender": "male",
+      "birthday": "23/09/2005",
+      "address": "4215 Lansdowne Road Apt. 238",
+      "phone": "332-903-5919",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1122.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Lucille Schiller",
+      "email": "lucille.schiller90@gmail.com",
+      "password": "XyObRciFTlzK76Y",
+      "role": "teacher",
+      "gender": "female",
+      "birthday": "11/10/1987",
+      "address": "88879 Margaretta Mountains Suite 929",
+      "phone": "932-232-5372",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/39.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Alison West",
+      "email": "alison_west32@yahoo.com",
+      "password": "12345",
+      "role": "admin",
+      "gender": "female",
+      "birthday": "16/04/1983",
+      "address": "9227 Stracke Mall Suite 221",
+      "phone": "528-768-8480",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/425.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Arnold Kub",
+      "email": "arnold64@yahoo.com",
+      "password": "BRPsZDtplYNHgE9",
+      "role": "teacher",
+      "gender": "male",
+      "birthday": "04/11/1979",
+      "address": "785 Willow Drive Apt. 116",
+      "phone": "015-436-1697",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/666.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Aubrey Roberts",
+      "email": "aubrey_roberts@yahoo.com",
+      "password": "Mf3ZS5B5d8JYIMB",
+      "role": "admin",
+      "gender": "male",
+      "birthday": "06/01/1984",
+      "address": "724 Thiel Unions Suite 796",
+      "phone": "992-722-8260",
+      "avatar": "https://avatars.githubusercontent.com/u/32633493"
+    },
+    {
+      "id": 10,
+      "name": "Stacey DuBuque",
+      "email": "stacey_dubuque@gmail.com",
+      "password": "iOGhht2FKO8mWDn",
+      "role": "admin",
+      "gender": "female",
+      "birthday": "09/02/1984",
+      "address": "7822 Johns Knoll Apt. 759",
+      "phone": "991-837-5833",
+      "avatar": "https://avatars.githubusercontent.com/u/29656357"
+    },
+    {
+      "id": 11,
+      "name": "Hugo Paucek",
+      "email": "hugo3@hotmail.com",
+      "password": "bs9zBU1lA_KV268",
+      "role": "teacher",
+      "gender": "male",
+      "birthday": "11/08/1992",
+      "address": "76525 Steuber Spur Suite 419",
+      "phone": "225-691-5093",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/759.jpg"
+    },
+    {
+      "id": 12,
+      "name": "William Leannon",
+      "email": "william93@yahoo.com",
+      "password": "W08Hbaz3yWZKStv",
+      "role": "teacher",
+      "gender": "male",
+      "birthday": "28/03/1975",
+      "address": "7189 Auer Park Apt. 740",
+      "phone": "341-825-6531",
+      "avatar": "https://avatars.githubusercontent.com/u/94259638"
+    },
+    {
+      "id": 13,
+      "name": "Drew Wiza-Kuvalis",
+      "email": "drew_wiza-kuvalis16@yahoo.com",
+      "password": "4I8sFm813FQqPcr",
+      "role": "admin",
+      "gender": "male",
+      "birthday": "18/09/1991",
+      "address": "51654 Fahey Common Suite 140",
+      "phone": "492-021-3098",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/970.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Blanca Roberts",
+      "email": "blanca42@gmail.com",
+      "password": "bO3dytaVTKcFY_I",
+      "role": "admin",
+      "gender": "female",
+      "birthday": "14/08/1985",
+      "address": "157 First Avenue Suite 763",
+      "phone": "544-216-5384",
+      "avatar": "https://avatars.githubusercontent.com/u/19336011"
+    },
+    {
+      "id": 15,
+      "name": "Cindy Turcotte",
+      "email": "cindy_turcotte54@yahoo.com",
+      "password": "33YjEMxoYoj_Rl5",
+      "role": "student",
+      "gender": "female",
+      "birthday": "13/06/2005",
+      "address": "92415 Marquise Rest Apt. 188",
+      "phone": "218-609-2172",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/71.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Edmund Cole",
+      "email": "edmund_cole@yahoo.com",
+      "password": "558Us1DfUahwXfH",
+      "role": "teacher",
+      "gender": "male",
+      "birthday": "06/02/1974",
+      "address": "404 Kilback Passage Apt. 916",
+      "phone": "060-942-3074",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/295.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Cheryl Wiza",
+      "email": "cheryl74@yahoo.com",
+      "password": "uMzSEq055zKXk5f",
+      "role": "student",
+      "gender": "female",
+      "birthday": "22/09/1999",
+      "address": "784 Common Lane Apt. 783",
+      "phone": "197-923-9606",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/74.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Virginia Hegmann",
+      "email": "virginia_hegmann34@yahoo.com",
+      "password": "8jS90v8bg4eKjTV",
+      "role": "student",
+      "gender": "female",
+      "birthday": "14/12/1999",
+      "address": "804 Keyshawn Orchard Suite 353",
+      "phone": "960-604-1758",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/299.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Leticia Jacobson",
+      "email": "leticia66@yahoo.com",
+      "password": "ILeju6Op9swif3F",
+      "role": "admin",
+      "gender": "female",
+      "birthday": "18/02/1977",
+      "address": "30257 First Street Apt. 435",
+      "phone": "746-740-6996",
+      "avatar": "https://avatars.githubusercontent.com/u/71580149"
+    },
+    {
+      "id": 20,
+      "name": "Erika Cremin",
+      "email": "erika58@hotmail.com",
+      "password": "51fxcF6XSRIE6i1",
+      "role": "teacher",
+      "gender": "female",
+      "birthday": "08/06/1973",
+      "address": "73021 Aufderhar Corner Suite 646",
+      "phone": "151-487-2267",
+      "avatar": "https://avatars.githubusercontent.com/u/28251261"
+    }
+  ],
+  "classes": [
+    {
+      "name": "Computer Sicence",
+      "code": "CS",
+      "teacher_id": 20,
+      "students": [
+        2,
+        3,
+        5
+      ],
+      "id": 1
+    },
+    {
+      "name": "Music",
+      "code": "MUS",
+      "teacher_id": "8",
+      "students": [
+        2,
+        3,
+        5,
+        10
+      ],
+      "id": 2
+    },
+    {
+      "name": "Artificial Intelligence",
+      "code": "AI03",
+      "teacher_id": "1",
+      "students": [
+        2,
+        5
+      ],
+      "id": 3
+    }
+  ]
+}
